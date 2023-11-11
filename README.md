@@ -55,5 +55,5 @@ a time by government.
 # Conclusion:-
 These project can be useful for detecting mask in public place through live feed and by implementating proposed system it will help heathcare workers , doctors and goverment officials to take precautionary measures.
 
-#Note: This project should be on local machine or colab notebook
-#Disclaimer: Author Reserves All Rights
+# Note: This project should be on local machine or colab notebook
+# Disclaimer: Author Reserves All Rights
